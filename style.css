@@ -5,3 +5,11 @@ h1 {
 p  {
     color:rgb(65, 136, 59)
 }
+
+h2 {
+    color:rgb(239, 49, 49)
+}
+.row {
+    display: flex;
+    align-items: center;
+}
