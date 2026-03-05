@@ -1,0 +1,16 @@
+input:disabled {
+    background-color: lightgrey;
+    border: 0;
+}
+
+h2:hover {
+    font-size: 30pt;
+}
+
+.nav-button {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(60, 102, 228)
+    padding:color-mix(in hsl shorter hue, color percentage, color percentage)
+    font-weight: bold;
+}
