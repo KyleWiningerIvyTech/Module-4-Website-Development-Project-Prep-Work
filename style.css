@@ -1,26 +1,32 @@
 h1 {
+    line-height: 1.6;
     font-size: 45px;
     color:rgb(255, 175, 37);
 }
 
 p  {
+    line-height: 1.6;
     font-size: 27px;
     color:rgb(115, 240, 104)
 }
 
 h2 {
+    line-height: 1.6;
     font-size: 35px;
     color:rgb(252, 140, 88)
 }
 .row {
+    line-height: 1.6;
     display: flex;
     align-items: center;
 }
 
 th {
+  line-height: 1.6;
   font-size: 45px;
 }
 
 li {
+  line-height: 1.6;
   font-size: 27px;
 }
