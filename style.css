@@ -16,3 +16,11 @@ h2 {
     display: flex;
     align-items: center;
 }
+
+th {
+  font-size: 27px;
+}
+
+li {
+  font-size: 27px;
+}
