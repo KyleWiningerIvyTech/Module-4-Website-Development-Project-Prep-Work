@@ -1,13 +1,16 @@
 h1 {
+    font-size: 45px;
     color:rgb(255, 175, 37);
 }
 
 p  {
+    font-size: 27px;
     color:rgb(115, 240, 104)
 }
 
 h2 {
-    color:rgb(239, 49, 49)
+    font-size: 35px;
+    color:rgb(252, 140, 88)
 }
 .row {
     display: flex;
