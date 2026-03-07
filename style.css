@@ -36,3 +36,8 @@ h3 {
     font-size: 32px;
     color:rgb(250, 245, 85)
 }
+
+td {
+    line-height: 1.6;
+    font-size: 45px
+}
