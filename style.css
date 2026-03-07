@@ -13,7 +13,7 @@ p  {
 h2 {
     line-height: 1.6;
     font-size: 35px;
-    color:rgb(252, 140, 88)
+    color:rgb(243, 134, 83)
 }
 .row {
     line-height: 1.6;
@@ -29,4 +29,10 @@ th {
 li {
   line-height: 1.6;
   font-size: 27px;
+}
+
+h3 {
+    line-height: 1.6;
+    font-size: 32px;
+    color:rgb(246, 250, 128)
 }
